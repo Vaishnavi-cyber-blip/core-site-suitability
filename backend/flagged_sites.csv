@@ -1,0 +1,6 @@
+plan_number,district,block,layer_type,site_id,lat,lon,structure_type,status,reason,comments
+116,bhilwara,mandalgarh,plan_agri,plan_agri_116_bhilwara_mandalgarh_1,25.33496335,75.21547398,Farm bund,flag,mis_marking,
+116,bhilwara,mandalgarh,plan_agri,plan_agri_116_bhilwara_mandalgarh_1,25.33496335,75.21547398,Farm bund,flag,mis_marking,
+116,bhilwara,mandalgarh,plan_gw,plan_gw_116_bhilwara_mandalgarh_0,25.3290703,75.22412015,Check dam,flag,,
+116,bhilwara,mandalgarh,plan_gw,plan_gw_116_bhilwara_mandalgarh_0,25.3290703,75.22412015,Check dam,flag,,
+116,bhilwara,mandalgarh,plan_agri,plan_agri_116_bhilwara_mandalgarh_1,25.33496335,75.21547398,Farm bund,flag,,
