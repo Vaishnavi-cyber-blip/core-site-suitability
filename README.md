@@ -147,6 +147,20 @@ core-site-suitability/
 └── README.md
 ```
 ---
+## 📸 Application Screenshots
+- Input Interface
+  
+<img width="1257" height="604" alt="image" src="https://github.com/user-attachments/assets/f4611c74-dd1d-4812-b23b-0d428f04c3a7" />
+
+- DPR Retrieval / Site View
+  
+<img width="1421" height="891" alt="image" src="https://github.com/user-attachments/assets/350a324e-065e-424c-9a86-a32b8099d012" />
+
+- Validation Output
+  
+<img width="1747" height="921" alt="image" src="https://github.com/user-attachments/assets/a2c0d091-d67c-4cb1-bdef-2ea88a984735" />
+
+---
 
 ## 📊 Key Insights
 
@@ -170,4 +184,17 @@ This project aims to improve:
 
 - Water resource planning  
 - Agricultural productivity  
-- Climate resilience  
+- Climate resilience
+
+---
+
+## 📑 Documentation & Reports
+
+- 📄 **Full DPR Validation Report**  
+  👉 [[View Report](link-to-your-pdf)](https://docs.google.com/document/d/1mcZMF9B1XidiZKE6ooMfEioIxk23SHzd/edit?usp=sharing&ouid=107818645417690493153&rtpof=true&sd=true)
+
+- 📊 **DPR Analysis Slides**  
+  👉 [[View Slides](link-to-your-slides)](https://drive.google.com/file/d/1GQ18PbC00A4pzkMEnFWpH-imYJ1ZmjIB/view?usp=drive_link)
+
+---
+
