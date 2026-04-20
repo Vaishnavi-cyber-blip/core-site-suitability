@@ -25,15 +25,8 @@ Current planning relies on manual judgment and static rules.
 
 ## 🏗️ System Architecture
 
-Frontend (React)
-↓
-Flask Backend API
-↓
-Google Earth Engine
-↓
-Rules Engine (JSON)
-↓
-Suitability Output + Recommendation
+<img width="680" height="480" alt="image" src="https://github.com/user-attachments/assets/301d33a0-0c8e-4cba-b178-099be2169d49" />
+
 
 ---
 
