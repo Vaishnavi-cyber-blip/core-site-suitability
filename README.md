@@ -130,20 +130,22 @@ The detailed backend validation pipeline is shown below, highlighting geospatial
 
 ---
 ## 📂 Project Structure
--  core-site-suitability/
-  │
-  ├── backend/
-  │   ├── app.py
-  │   ├── gee_scripts/
-  │   └── rules.json
-  │
-  ├── frontend/
-  │   └── src/
-  │
-  ├── data/
-  ├── notebooks/
-  ├── reports/
-  └── README.md
+```bash
+core-site-suitability/
+│
+├── backend/
+│   ├── app.py
+│   ├── gee_scripts/
+│   └── rules.json
+│
+├── frontend/
+│   └── src/
+│
+├── data/
+├── notebooks/
+├── reports/
+└── README.md
+```
 ---
 
 ## 📊 Key Insights
