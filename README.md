@@ -23,13 +23,6 @@ Current planning relies on manual judgment and static rules.
 
 ---
 
-## 🏗️ System Architecture
-
-<img width="680" height="480" alt="image" src="https://github.com/user-attachments/assets/301d33a0-0c8e-4cba-b178-099be2169d49" />
-
-
----
-
 ## 🌍 Key Parameters
 
 The system evaluates each site using:
@@ -117,6 +110,16 @@ Helps capture non-linear relationships beyond fixed rules.
    - Recommended structure  
 
 ---
+## 🏗️ System Architecture
+The overall system workflow is illustrated below, showing data flow from user input to final suitability classification.
+
+<img width="680" height="480" alt="image" src="https://github.com/user-attachments/assets/301d33a0-0c8e-4cba-b178-099be2169d49" />
+
+The detailed backend validation pipeline is shown below, highlighting geospatial feature extraction, rule-based evaluation, and decision aggregation.
+
+<img width="1420" height="1296" alt="image" src="https://github.com/user-attachments/assets/909136fa-0152-4abd-8ee7-96d8f871c0ef" />
+
+---
 ## 🖥️ Tech Stack
 
 - **Frontend:** React  
@@ -127,20 +130,20 @@ Helps capture non-linear relationships beyond fixed rules.
 
 ---
 ## 📂 Project Structure
-core-site-suitability/
-│
-├── backend/
-│ ├── app.py
-│ ├── gee_scripts/
-│ ├── rules.json
-│
-├── frontend/
-│ ├── src/
-│
-├── data/
-├── notebooks/
-├── reports/
-└── README.md
+-  core-site-suitability/
+  │
+  ├── backend/
+  │   ├── app.py
+  │   ├── gee_scripts/
+  │   └── rules.json
+  │
+  ├── frontend/
+  │   └── src/
+  │
+  ├── data/
+  ├── notebooks/
+  ├── reports/
+  └── README.md
 ---
 
 ## 📊 Key Insights
